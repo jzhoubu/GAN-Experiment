@@ -8,7 +8,10 @@
 - Result: [Visualization](https://sysu-zjw.github.io/GAN-Experiment/html/0211_GAN_MINST/)
 
 
-
+#### Conditional GAN [[Paper]](https://arxiv.org/abs/1411.1784)
+- Notebook: `0211_CGAN_MINST.ipynb`
+- Dataset: MNIST from `tf.keras`
+- Result: [Visualization](https://sysu-zjw.github.io/GAN-Experiment/html/0211_CGAN_MINST/)
 
 
 ## Related Work
