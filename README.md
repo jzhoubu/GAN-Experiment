@@ -1,5 +1,13 @@
 # GAN Experiment
 
+## Experiment
+
+#### GAN [[Paper]](https://arxiv.org/abs/1406.2661)
+- Notebook: 0211_GAN_MINST.ipynb
+- Dataset: MNIST from tf.keras
+- Result: [Visualization](https://sysu-zjw.github.io/GAN-Experiment/html/0211_GAN_MINST/)
+
+
 
 
 
