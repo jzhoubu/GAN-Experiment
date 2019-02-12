@@ -5,42 +5,42 @@
 #### GAN [[Paper]](https://arxiv.org/abs/1406.2661)
 - Notebook: `0211_GAN_MINST.ipynb`
 - Dataset: MNIST from `tf.keras`
-- Training time: 270
+- Training time: 270s
 - Paramters:
     + epochs: 3000
     + batch_size: 32
     + save_interval: 200
 - Size:
-    + Generator: 5974080
-    + Discriminator: 2134020
+    + Generator: 5974080B
+    + Discriminator: 2134020B
 - Result: [Visualization](https://sysu-zjw.github.io/GAN-Experiment/html/0211_GAN_MNIST/)
 
 
 #### Conditional GAN [[Paper]](https://arxiv.org/abs/1411.1784)
 - Notebook: `0211_CGAN_MINST.ipynb`
 - Dataset: MNIST from `tf.keras`
-- Training time: 392
+- Training time: 392s
 - Paramters:
     + epochs: 3000
     + batch_size: 32
     + save_interval: 200
 - Size:
-    + Generator: 5978080
-    + Discriminator: 3742340
+    + Generator: 5978080B
+    + Discriminator: 3742340B
 - Result: [Visualization](https://sysu-zjw.github.io/GAN-Experiment/html/0211_CGAN_MNIST/)
 
 
 #### Deep Convolutional GAN [[Paper]](https://arxiv.org/abs/1511.06434)
 - Notebook: `0212_DCGAN_MINST.ipynb`
 - Dataset: MNIST from `tf.keras`
-- Training time: 1503
+- Training time: 1503s
 - Paramters:
     + epochs: 300
     + batch_size: 32
     + save_interval: 20
 - Size:
-    + Generator: 3424772
-    + Discriminator: 1574916
+    + Generator: 3424772B
+    + Discriminator: 1574916B
 - Result: [Visualization](https://sysu-zjw.github.io/GAN-Experiment/html/0212_DCGAN_MNIST/)
 
 
