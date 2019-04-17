@@ -1,6 +1,29 @@
 # GAN Experiment
 
-## Experiment
+### Update
+
+- **19/02/14**: Add GAN/CGAN/DCGAN experiment
+- **19/04/17**: Start research on GAN on NLP
+
+
+
+### GAN on NLP
+
+1. **Famous Work**
+   - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient  (2017@AAAI)
+   - MaskGAN: Better Text Generation via Filling in the______ (2018@ICLR)
+2. **Challenge**
+   - SeqGAN指出了两点challenge：
+     - 1）词向量是离散的token，generator生成的embedding未必有与之对应的词语
+     - 2）discriminator只适合对entire sequence进行评分
+
+
+
+
+
+
+
+### Experiment
 
 #### GAN 
 - Paper: [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
